@@ -1,7 +1,7 @@
 # Resume Classification Pipeline
 
 ## Overview
-This project implements a resume classification pipeline using advanced machine learning and natural language processing (NLP) techniques. The goal is to classify resumes into different job-related categories based on their textual content. This approach leverages algorithms such as Random Forest and XGBoost, combined with NLP features like TF-IDF, Count Vectorization, and BERT embeddings.
+This project implements a resume classification pipeline using advanced machine learning and natural language processing (NLP) techniques. The goal is to classify resumes into different job-related categories based on their textual content. This approach leverages algorithms such as Random Forest and XGBoost, combined with NLP features like TF-IDF, Count Vectorization, and sentence embeddings.
 
 ## Features
 - **Data Preprocessing**: Text cleaning, normalization, and lemmatization using NLTK.
