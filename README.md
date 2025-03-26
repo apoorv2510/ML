@@ -5,7 +5,7 @@ This project implements a resume classification pipeline using advanced machine 
 
 ## Features
 - **Data Preprocessing**: Text cleaning, normalization, and lemmatization using NLTK.
-- **Feature Extraction**: Combination of TF-IDF, Count Vectorization, and BERT embeddings.
+- **Feature Extraction**: Combination of TF-IDF, Count Vectorization, and sentence embeddings.
 - **Class Imbalance Handling**: Using SMOTE (Synthetic Minority Over-sampling Technique) to balance the dataset.
 - **Model Training**: Two classifiers - Random Forest and XGBoost are trained to optimize classification performance.
 - **Evaluation Metrics**: Accuracy, F1 Score, Precision, Recall, and Confusion Matrix.
